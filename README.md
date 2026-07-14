@@ -18,8 +18,4 @@ An interactive and fully responsive photo slider component designed for modern w
 ## 🎬 Project Demonstration
 Watch the fluid automated image transitions and manual slide progression controls in action:
 
-<p align="center">
-  <video src="demo.mp4" width="100%" controls>
-    Your browser does not support the video tag.
-  </video>
-</p>
+https://github.com/user-attachments/assets/56f7db26-b60d-4f1a-9519-57b70edbf263
