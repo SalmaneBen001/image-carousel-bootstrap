@@ -12,3 +12,14 @@ An interactive and fully responsive photo slider component designed for modern w
 - **UI Framework:** Bootstrap 5
 - **Structure & Styling:** HTML5 / CSS3
 - **Core Concepts:** Asynchronous timing functions, DOM property updates, and event-driven interfaces.
+
+---
+
+## 🎬 Project Demonstration
+Watch the fluid automated image transitions and manual slide progression controls in action:
+
+<p align="center">
+  <video src="demo.mp4" width="100%" controls>
+    Your browser does not support the video tag.
+  </video>
+</p>
